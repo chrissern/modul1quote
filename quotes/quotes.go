@@ -7,7 +7,7 @@ func GetGo() string {
 }
 
 func GetHello() string {
-	return quote.Opt()
+	return quote.Hello()
 }
 
 func GetOpt() string {
